@@ -7,6 +7,7 @@
 > Heli
 
 > Vitu
+- Codificado pelo Vitu
 
 ![image](https://github.com/Guiswer/desafio_github_markdown/assets/126336626/b4d914c0-5d1c-4603-938b-a125085135ad)
 
