@@ -20,6 +20,8 @@ public class GroupG7{
 ```
 ## :dart: Amigos do código :D
 
+![coding](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
+
 <table>
   <tr>
     <td align="center">
